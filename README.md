@@ -12,7 +12,7 @@ Hello! I'm Esteban, a passionate software developer with a strong background in 
 
 ### Skills
 
-- **Programming Languages:** JavaScript, CSS, HTML, "[expanding my knowledge]"
+- **Programming Languages:** JavaScript, CSS, HTML, React, React Testing Library, Redux, MERN - Mongo + Express + React + Node, Router, Boostrap, Mongoose, Redux DevTools, React DevTools "[expanding my knowledge]"
 - **Version Control:** Git, GitHub
 
 ---
@@ -40,6 +40,9 @@ Strong knowledge in algebra, mathematical analysis, statistics, physics and comp
 *Introduction to Programming with JavaScript*  
 ![image](https://github.com/user-attachments/assets/c3ee2950-33fe-4921-a2a8-5bd39f632f04)
 
+
+**[Udemy]**  
+*React: De cero a experto ( Hooks y MERN )* de Fernando Herrera
 ---
 
 ### Contact
