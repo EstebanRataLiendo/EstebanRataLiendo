@@ -20,8 +20,8 @@ Hello! I'm Esteban, a passionate software developer with a strong background in 
 - **Full-Stack Technologies:**               MERN
 - **Development Tools:**                     React DevTools
 - **Version Control:**                       Git,                  GitHub
--
--
+
+
 "[expanding my knowledge]"
 ---
 
