@@ -12,9 +12,15 @@ Hello! I'm Esteban, a passionate software developer with a strong background in 
 
 ### Skills
 
-- **Programming Languages:** JavaScript, CSS, HTML, React, React Testing Library, Redux, MERN - Mongo + Express + React + Node, Router, Boostrap, Mongoose, Redux DevTools, React DevTools "[expanding my knowledge]"
+- **Programming Languages:** JavaScript, CSS, HTML
+-**Frontend Libraries and Frameworks:** React, Router, Boostrap
+-**State Management:** Redux, Redux DevTools
+-**Backend and Database:** Mongoose, MongoDB, Node.js, Express
+-**Testing:** React Testing Library
+-**Full-Stack Technologies:** MERN
+-**Development Tools:** React DevTools
 - **Version Control:** Git, GitHub
-
+"[expanding my knowledge]"
 ---
 
 ### Education
