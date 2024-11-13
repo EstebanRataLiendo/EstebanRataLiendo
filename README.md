@@ -51,6 +51,8 @@ Strong knowledge in algebra, mathematical analysis, statistics, physics and comp
 
 **[Udemy]**  
 *React: De cero a experto ( Hooks y MERN )* de Fernando Herrera
+![React](https://github.com/user-attachments/assets/f88385e8-7321-4498-a97a-07dcb8b93105)
+
 
 
 ---
