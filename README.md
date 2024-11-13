@@ -31,7 +31,7 @@ Hello! I'm Esteban, a passionate software developer with a strong background in 
 *High School specializing in Computer Science and Programming*  
 
 **[Universidad Tecnológica Nacional de Córdoba]**  
-*Final year of Civil Engineering*  
+*Final year of Engineering*  
 Strong knowledge in algebra, mathematical analysis, statistics, physics and computer science
 
 **[freeCodeCamp]**  
